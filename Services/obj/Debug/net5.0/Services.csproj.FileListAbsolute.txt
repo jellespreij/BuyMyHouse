@@ -1,0 +1,17 @@
+C:\Users\jelly\source\repos\BuyMyHouse\Services\bin\Debug\net5.0\Services.deps.json
+C:\Users\jelly\source\repos\BuyMyHouse\Services\bin\Debug\net5.0\Services.dll
+C:\Users\jelly\source\repos\BuyMyHouse\Services\bin\Debug\net5.0\ref\Services.dll
+C:\Users\jelly\source\repos\BuyMyHouse\Services\bin\Debug\net5.0\Services.pdb
+C:\Users\jelly\source\repos\BuyMyHouse\Services\bin\Debug\net5.0\Models.dll
+C:\Users\jelly\source\repos\BuyMyHouse\Services\bin\Debug\net5.0\Repositories.dll
+C:\Users\jelly\source\repos\BuyMyHouse\Services\bin\Debug\net5.0\Models.pdb
+C:\Users\jelly\source\repos\BuyMyHouse\Services\bin\Debug\net5.0\Repositories.pdb
+C:\Users\jelly\source\repos\BuyMyHouse\Services\obj\Debug\net5.0\Services.csproj.AssemblyReference.cache
+C:\Users\jelly\source\repos\BuyMyHouse\Services\obj\Debug\net5.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jelly\source\repos\BuyMyHouse\Services\obj\Debug\net5.0\Services.AssemblyInfoInputs.cache
+C:\Users\jelly\source\repos\BuyMyHouse\Services\obj\Debug\net5.0\Services.AssemblyInfo.cs
+C:\Users\jelly\source\repos\BuyMyHouse\Services\obj\Debug\net5.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\jelly\source\repos\BuyMyHouse\Services\obj\Debug\net5.0\Services.csproj.CopyComplete
+C:\Users\jelly\source\repos\BuyMyHouse\Services\obj\Debug\net5.0\Services.dll
+C:\Users\jelly\source\repos\BuyMyHouse\Services\obj\Debug\net5.0\ref\Services.dll
+C:\Users\jelly\source\repos\BuyMyHouse\Services\obj\Debug\net5.0\Services.pdb
