@@ -1,2 +1,2 @@
 # BuyMyHouse
-school project
+school project - Jelle Spreij 622120
